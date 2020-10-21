@@ -1,4 +1,4 @@
-# guiadeclientes
+# guiadeclientes.
 
 ## Project setup
 ```
